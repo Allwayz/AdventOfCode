@@ -10,18 +10,6 @@ import sys
 
 
 def day8(filename):
-    testDigits = {
-        0: 'cagedb',
-        1: 'ab',
-        2: 'gcdfa',
-        3: 'fbcad',
-        4: 'eafb',
-        5: 'cdfbe',
-        6: 'cdfgeb',
-        7: 'dab',
-        8: 'acedgfb',
-        9: 'cefabd'
-    }
     Digits = {
         0: '',
         1: '',
