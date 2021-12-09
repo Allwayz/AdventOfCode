@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92b89b01-3223-4fed-af18-94dc5c4c975c" name="变更" comment="day8AOC">
-      <change afterPath="$PROJECT_DIR$/Day9/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day9/puzzleInput.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day9/testInput.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="92b89b01-3223-4fed-af18-94dc5c4c975c" name="变更" comment="day9AOC">
+      <change beforePath="$PROJECT_DIR$/Day9/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day9/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -226,7 +223,7 @@
       <workItem from="1638901440857" duration="11989000" />
       <workItem from="1638999337562" duration="1125000" />
       <workItem from="1639007678826" duration="583000" />
-      <workItem from="1639025946694" duration="7205000" />
+      <workItem from="1639025946694" duration="7492000" />
     </task>
     <task id="LOCAL-00001" summary="day3AOC">
       <created>1638537477541</created>
@@ -284,7 +281,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638953742864</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="day9AOC">
+      <created>1639033530497</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1639033530497</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -308,7 +312,8 @@
     <MESSAGE value="day6AOC" />
     <MESSAGE value="day7AOC" />
     <MESSAGE value="day8AOC" />
-    <option name="LAST_COMMIT_MESSAGE" value="day8AOC" />
+    <MESSAGE value="day9AOC" />
+    <option name="LAST_COMMIT_MESSAGE" value="day9AOC" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
