@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92b89b01-3223-4fed-af18-94dc5c4c975c" name="变更" comment="day7AOC">
-      <change afterPath="$PROJECT_DIR$/Day8/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day8/puzzleInput.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day8/testInput.in" afterDir="false" />
+    <list default="true" id="92b89b01-3223-4fed-af18-94dc5c4c975c" name="变更" comment="day8AOC">
+      <change afterPath="$PROJECT_DIR$/Day9/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day9/puzzleInput.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day9/testInput.in" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day6/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day6/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,13 +37,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Day2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Day9" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Day9" />
       <recent name="$PROJECT_DIR$/Day2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -52,8 +52,8 @@
       <recent name="$PROJECT_DIR$/Day1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (6)">
-    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.main (1)">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AdventOfCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,12 +61,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day9" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day5/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day9/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -187,19 +187,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.main" />
-      <item itemvalue="Python.main (2)" />
       <item itemvalue="Python.main (3)" />
       <item itemvalue="Python.main (4)" />
       <item itemvalue="Python.main (5)" />
       <item itemvalue="Python.main (6)" />
+      <item itemvalue="Python.main (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main (6)" />
         <item itemvalue="Python.main (5)" />
         <item itemvalue="Python.main (4)" />
         <item itemvalue="Python.main (3)" />
-        <item itemvalue="Python.main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +223,10 @@
       <workItem from="1638755277339" duration="1845000" />
       <workItem from="1638788596454" duration="608000" />
       <workItem from="1638853380557" duration="1819000" />
-      <workItem from="1638901440857" duration="11099000" />
+      <workItem from="1638901440857" duration="11989000" />
+      <workItem from="1638999337562" duration="1125000" />
+      <workItem from="1639007678826" duration="583000" />
+      <workItem from="1639025946694" duration="7205000" />
     </task>
     <task id="LOCAL-00001" summary="day3AOC">
       <created>1638537477541</created>
@@ -267,7 +270,21 @@
       <option name="project" value="LOCAL" />
       <updated>1638854714876</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="day8AOC">
+      <created>1638953703076</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1638953703076</updated>
+    </task>
+    <task id="LOCAL-00008" summary="day8AOC">
+      <created>1638953742864</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1638953742864</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -290,7 +307,8 @@
     <MESSAGE value="day5AOC" />
     <MESSAGE value="day6AOC" />
     <MESSAGE value="day7AOC" />
-    <option name="LAST_COMMIT_MESSAGE" value="day7AOC" />
+    <MESSAGE value="day8AOC" />
+    <option name="LAST_COMMIT_MESSAGE" value="day8AOC" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -309,10 +327,10 @@
     </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/AdventOfCode$main__6_.coverage" NAME="main (6) 覆盖结果" MODIFIED="1638953312382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day8" />
+    <SUITE FILE_PATH="coverage/AdventOfCode$main__6_.coverage" NAME="main (6) 覆盖结果" MODIFIED="1638953689960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day8" />
     <SUITE FILE_PATH="coverage/AdventofCode$main__1_.coverage" NAME="main (1) 覆盖结果" MODIFIED="1638438140730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day2" />
     <SUITE FILE_PATH="coverage/AdventOfCode$main__2_.coverage" NAME="main (2) 覆盖结果" MODIFIED="1638736781360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day5" />
-    <SUITE FILE_PATH="coverage/AdventOfCode$main__1_.coverage" NAME="main (1) 覆盖结果" MODIFIED="1638665644197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day5" />
+    <SUITE FILE_PATH="coverage/AdventOfCode$main__1_.coverage" NAME="main (1) 覆盖结果" MODIFIED="1639033363994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day9" />
     <SUITE FILE_PATH="coverage/AdventofCode$main.coverage" NAME="main 覆盖结果" MODIFIED="1638357950705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AdventOfCode$main__4_.coverage" NAME="main (4) 覆盖结果" MODIFIED="1638788639392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day6" />
     <SUITE FILE_PATH="coverage/AdventOfCode$4.coverage" NAME="4_2 覆盖结果" MODIFIED="1638619472980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day4" />
